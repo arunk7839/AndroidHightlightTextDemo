@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidHightlightTextDemo</string>
+    <string name="text">The Moon is a barren, rocky world without air and water. It has dark lava plain on its surface.
+        \nThe Moon is filled with craters. It has no light of its own.
+        \nIt gets its light from the Sun.
+
+</string>
+
+    <string name="speak_text">SPEAK TEXT</string>
+    <string name="text_to_speech">Text To Speech</string>
+</resources>
